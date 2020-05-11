@@ -1,0 +1,38 @@
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\bin\Debug\VB 10Mar.2.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB 10Mar.2.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\bin\Debug\VB 10Mar.2.exe
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\bin\Debug\VB 10Mar.2.pdb
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\bin\Debug\VB 10Mar.2.xml
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB 10Mar.2.exe
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB 10Mar.2.xml
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB 10Mar.2.pdb
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form2.resources
+c:\users\asus\documents\visual studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form3.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form4.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form5.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form6.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form7.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form8.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form9.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\VB 10Mar.2\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form10.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\bin\Debug\VB 10Mar.2.exe.config
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB 10Mar.2.exe
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB 10Mar.2.xml
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB 10Mar.2.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form1.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form10.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form2.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form3.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form4.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form5.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form6.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form7.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form8.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Form9.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB_10Mar._2.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\obj\Debug\VB 10Mar.2.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\bin\Debug\VB 10Mar.2.exe
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\bin\Debug\VB 10Mar.2.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\11907018_Alya Naradita Junaedi_PEMDAS_MODUL KE-3\VB 10Mar.2\bin\Debug\VB 10Mar.2.xml
